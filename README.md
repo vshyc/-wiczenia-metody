@@ -1,1 +1,1 @@
-# -wiczenia-metody
+# cwiczenia-metody
